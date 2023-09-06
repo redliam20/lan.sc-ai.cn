@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X6 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="200px" height="200px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 200 200"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#FEFEFE}
+   ]]>
+  </style>
+ </defs>
+ <g id="图层_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_464533616">
+   <path class="fil0" d="M47 15l86 0 0 35 0 2 37 0 0 136 -123 0 0 0 0 -173zm99 7l0 -5 22 22 -5 0 -17 0 0 -17zm-111 178l148 0 0 -158c0,-4 1,-4 -1,-6 -1,-1 -2,-2 -4,-4 -2,-2 -28,-27 -29,-29 -8,-1 -20,0 -29,0 -10,0 -19,0 -29,0 -19,0 -38,0 -57,0l0 197z"/>
+   <polygon class="fil0" points="59,113 158,113 158,101 159,101 59,101 "/>
+   <polygon class="fil0" points="59,89 158,89 158,76 59,76 59,76 "/>
+   <polygon class="fil0" points="59,138 132,138 133,138 133,125 59,125 59,125 "/>
+  </g>
+ </g>
+</svg>
